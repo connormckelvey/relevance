@@ -1,6 +1,6 @@
 {
   "name": "relevance",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Sort an array of objects based on a search or specified properties",
   "main": "index.js",
   "scripts": {

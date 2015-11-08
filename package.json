@@ -1,6 +1,6 @@
 {
   "name": "relevance",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Sort an array of objects based on a search or specified properties",
   "main": "index.js",
   "scripts": {
@@ -22,6 +22,7 @@
   ],
   "license": "ISC",
   "devDependencies": {
-    "chai": "^3.4.1"
+    "chai": "^3.4.1",
+    "mocha": "^2.3.3"
   }
 }

@@ -1,13 +1,13 @@
-#Relevance [![Build Status: Linux](https://travis-ci.org/connormckelvey/relevance.svg?branch=master)](https://travis-ci.org/connormckelvey/relevance)
+# Relevance [![Build Status: Linux](https://travis-ci.org/connormckelvey/relevance.svg?branch=master)](https://travis-ci.org/connormckelvey/relevance)
 
 Relevance is a simple sorting module that sorts an array of objects by relevance. Relevance is determined by the number of occurrences of each element
 in a query array. The order is ultimately determined by a score which is calculated with the number of occurrences found and a ranking integer based on the property.
 
-##Installation
+## Installation
 
 `npm install relevance --save`
 
-##Usage
+## Usage
 
 ```javascript
   var relevance = require('relevance');
@@ -40,6 +40,6 @@ in a query array. The order is ultimately determined by a score which is calcula
   });
 ```
 
-##Todo
+## Todo
 
  - Add more tests

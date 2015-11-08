@@ -1,0 +1,27 @@
+{
+  "name": "relevance",
+  "version": "1.0.0",
+  "description": "Sort an array of objects based on a search or specified properties",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "author": {
+    "name": "Connor McKelvey",
+    "email": "connormckelvey@gmail.com",
+    "url": "http://www.connormckelvey.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/connormckelvey/relevance.git"
+  },
+  "keywords": [
+    "sort",
+    "relevance",
+    "search"
+  ],
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.4.1"
+  }
+}
